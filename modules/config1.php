@@ -10,9 +10,9 @@
 	// remote Database connection
 	
 	$databaseHost = 'remotemysql.com';
-	$databaseName = '80TLwA0AmD';
-	$databaseUsername = '80TLwA0AmD';
-	$databasePassword = 'ihLxF7MOQb';
+	$databaseName = 'jQY6veNhls';
+	$databaseUsername = 'jQY6veNhls';
+	$databasePassword = 'R5gOcvn0Vh';
 	
 	try {
 		
